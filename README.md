@@ -21,6 +21,7 @@ Ficar muito tempo sentado na frente do computador sem pausas para se exercitar Ã
 
 - [Typescript](https://www.typescriptlang.org/)
 - [ReactJS](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
 
 ## :rocket: Executando
 
