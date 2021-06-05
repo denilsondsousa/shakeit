@@ -42,7 +42,7 @@ Ficar muito tempo sentado na frente do computador sem pausas para se exercitar �
   $ yarn # ou npm install
 
   # Inicializando a aplicação:
-  $ yarn start # ou npm start
+  $ yarn dev # ou npm run dev
 
 ```
 
